@@ -53,6 +53,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamad-riza-rawufdeen-9a6b76254" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Mohamad Riza" height="50" width="50" /></a>
 <a href="https://www.instagram.com/nexasoft_com/?igsh=MXh3cnRwdTRyaTE1dQ%3D%3D" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Mohamad Riza" height="50" width="50" /></a>
+<a href="https://www.tiktok.com/@nexasoft_2025?_t=ZS-8zUuC5khCjK&_r=1" target="blank"><img align="center" src="https://store-images.s-microsoft.com/image/apps.47495.13634052595610511.c45457c9-b4af-46b0-8e61-8d7c0aec3f56.a8b71481-8a43-465d-88d6-e63add92c112" alt="Mohamad Riza" height="50" width="50" /></a>
 </p>
 
 ---
