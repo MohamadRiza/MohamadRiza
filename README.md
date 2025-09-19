@@ -52,8 +52,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamad-riza-rawufdeen-9a6b76254" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Mohamad Riza" height="50" width="50" /></a>
-
-  <a href="https://www.instagram.com/nexasoft_com/?igsh=MXh3cnRwdTRyaTE1dQ%3D%3D" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Mohamad Riza" height="50" width="50" /></a>
+<a href="https://www.instagram.com/nexasoft_com/?igsh=MXh3cnRwdTRyaTE1dQ%3D%3D" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Mohamad Riza" height="50" width="50" /></a>
 </p>
 
 ---
