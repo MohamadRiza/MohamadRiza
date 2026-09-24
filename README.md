@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently **Looking for Internship**
+- 🌱 I’m currently **Founder and Developer at Nexasoft**
 
 - 🧑‍🎓 I’m an Undergraduate at **Esoft Metro Campus (London Metropolitan University)**
 
-- 💬 Ask me about **C#, MERN Stack, TS, SQL**
+- 💬 Ask me about **C#, MERN Stack, TS, SQL, Next.js**
 
 - 📫 How to reach me **rawufdeenriza@gmail.com**
   
